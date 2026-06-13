@@ -1,6 +1,7 @@
 // няняня тут все плюшики хранятся~~ мрррр смотри какие миленькие~~
 // используем raw GitHub URLs для совместимости со Snack~~
-const BASE = 'https://raw.githubusercontent.com/Heck43/jnfgjfgj/main/assets/figma'
+const BASE = 'https://raw.githubusercontent.com/Heck43/plushlair-mobile/main/assets/figma'
+
 
 export const bgBlur = { uri: `${BASE}/bg-blur.png` }
 export const boykisserPhoto = { uri: `${BASE}/boykisser-photo.png` }
